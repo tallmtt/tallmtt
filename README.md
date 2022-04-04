@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tallmtt
-- 👀 I’m interested in everything.
-- 🌱 I’m currently learning python and other fun stuff.
+- 👀 I’m interested in too many things...
+- 🌱 I’m currently learning python, progressive web apps, and other fun stuff.
 - 💞️ I’m looking to collaborate on python things like django, automation, and some data science projects.
 - 📫 How to reach me: If you know me, you know how.
 
